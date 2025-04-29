@@ -406,7 +406,7 @@ GEM
     multipart-post (2.4.1)
     mutex_m (0.3.0)
     nenv (0.3.0)
-    net-imap (0.5.1)
+    net-imap (0.5.7)
       date
       net-protocol
     net-pop (0.1.2)
@@ -887,7 +887,7 @@ GEM
     throttling (0.4.0)
     tilt (2.0.11)
     timecop (0.9.10)
-    timeout (0.4.2)
+    timeout (0.4.3)
     trailblazer-option (0.1.2)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
